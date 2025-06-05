@@ -62,7 +62,6 @@
 .profile__add-btn {
   margin: auto 0 0 auto;
   padding: 12px 32px;
-  border: 1px solid#fff;
   height: 48px;
   color: #fcf5e5;
   display: flex;
@@ -109,19 +108,4 @@
     margin: 0 0 20px;
  }
 
- .profile__edit-btn {
-    display: flex;
-    justify-content: center;
- }
-
-  .profile__add-btn {
-    margin: auto;
-    padding: 18px 32px;
-    width: 288px;
-    height: 52px;
-    display: flex;
-    justify-content: center;
-    background-color: #212121;
-    border-radius: 8px;
-  }
 }
